@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950052451127",
+    "project_id": "pontoponto-79f6e",
+    "storage_bucket": "pontoponto-79f6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950052451127:android:1c089385d423909f1ce0b2",
+        "android_client_info": {
+          "package_name": "com.pontoponto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsOIsupK_QGLmMCUQVKF9JQ-qiFpYneK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
